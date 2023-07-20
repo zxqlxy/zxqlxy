@@ -22,4 +22,4 @@ Hi there, I'm zxqlxy! 👋
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxqlxy&layout=compact&hide=html)](https://github.com/anuraghazra/github-readme-stats)
 
-My [website](https://yixue.vercel.app) about 易学
+My [website](https://yixue.vercel.app) about 易学, recently worked on [filegpt](https://filegpt.app) and [dealHunter](https://dealhunter-fe.vercel.app/).
